@@ -53,23 +53,23 @@
             },
             {
                 text: "Be the person who never gives up.",
-                author: "no author"
+                author: "unknown"
             },
             {
                 text: "Start now; perfect later.",
-                author: "no author"
+                author: "unknown"
             },
             {
                 text: "Push yourself—no one else will do it for you.",
-                author: "no author"
+                author: "unknown"
             },
             {
                 text: "Discipline turns dreams into reality.",
-                author: "no author"
+                author: "unknown"
             },
             {
                 text: "Believe in the work, not the luck.",
-                author: "no author"
+                author: "unknown"
             },
             {
                 text: "Start where you are. Use what you have. Do what you can.",
@@ -77,35 +77,35 @@
             },
             {
                 text: "Keep going—your future self is watching.",
-                author: "no author"
+                author: "unknown"
             },
             {
                 text: "One step today is progress forever.",
-                author: "no author"
+                author: "unknown"
             },
             {
                 text: "Start now; perfection will follow.",
-                author: "no author"
+                author: "unknown"
             },
             {
                 text: "Success is built on small daily actions.",
-                author: "no author"
+                author: "unknown"
             },
             {
                 text: "Believe in the work, not the luck.",
-                author: "no author"
+                author: "unknown"
             },
             {
                 text: "Your only limit is your consistency.",
-                author: "no author"
+                author: "unknown"
             },
             {
                 text: "One step today is progress forever.",
-                author: "no author"
+                author: "unknown"
             },
             {
                 text: "Discipline turns dreams into reality.",
-                author: "no author"
+                author: "unknown"
             },
             {
                 text: "Great things start with a simple decision to try.",
@@ -237,43 +237,43 @@
                 },
                 {
                 text: "Every page you read is a step toward a better you.",
-                author: "no author"
+                author: "unknown"
 },
 {
                 text: "Study not to pass exams, but to pass your limits.",
-                author: "no author"
+                author: "unknown"
 },
 {
     text: "Your future begins with the chapter you open today.",
-    author: "no author"
+    author: "unknown"
 },
 {
     text: "A single focused hour can change your entire semester.",
-    author: "no author"
+    author: "unknown"
 },
 {
     text: "Don’t study harder—study with purpose.",
-    author: "no author"
+    author: "unknown"
 },
 {
     text: "Consistency in learning becomes clarity in life.",
-    author: "no author"
+    author: "unknown"
 },
 {
     text: "You grow with every concept you understand.",
-    author: "no author"
+    author: "unknown"
 },
 {
     text: "One page a day is enough to build a brilliant mind.",
-    author: "no author"
+    author: "unknown"
 },
 {
     text: "Education is the echo of effort.",
-    author: "no author"
+    author: "unknown"
 },
 {
     text: "Your knowledge is your quiet power.",
-    author: "no author"
+    author: "unknown"
 },
                 {
                 text: "The secret of getting ahead is getting started.",
@@ -325,4 +325,5 @@
         // Display initial quote on page load
         window.addEventListener('load', () => {
             setTimeout(displayQuote, 500);
+
         });
